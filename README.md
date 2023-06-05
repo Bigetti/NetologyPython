@@ -7,3 +7,5 @@ i am studiing
 
 
 one more change
+
+Понимаем веивление с Нтологией
